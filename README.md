@@ -14,4 +14,4 @@ For login and registration for mobile or desktop site modal pop-up designed usin
 # Demo
 
 See demos here:  
-[Login Modal](https://balramchauhan1993.github.io/loginmodaldemo.html)  
+[Login Modal](https://balramchauhan1993.github.io/loginDemo.html)  
